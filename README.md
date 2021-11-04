@@ -14,3 +14,13 @@ Untuk r saya memasukkan fungsi "int(input)lalu masukkan return yang di tuju, lal
 Berikut ini merupakan pseudocodenya
 ![gambar1](sspseudocode1.png)
 
+Kedua program tersebut saya masukkan kode program print(judul)
+Lalu saya masukkan kode program def lalu dilanjutkan dengan nama fungsi
+sehabis itu saya memasukkan kode program return dilanjutkan dengan memasukkan rumus keliling kedalam program yang di buat.
+
+keliling lingkaran      = 2 * phi * r 
+Berikut ini merupakan pseudocodenya
+![gambar2](sspseudocode2.png)
+
+dan berikut ini merupakan tampilan data ke repository github
+![gambar3](ss3.png)
